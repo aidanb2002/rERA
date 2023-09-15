@@ -1,1 +1,3 @@
 # rERA
+
+In this notebook, I endeavor to provide deeper context to ERA statistics, focusing specifically on relievers. Due to differing sample sizes, the ERA for starters and relievers is often regarded almost as two distinct statistics, even though they are derived from the same formula. Recognizing that the ERA encompasses variables beyond the pitcher's control, such as team defense, this analysis leverages machine learning to consider only the feature variables that a pitcher can influence. Further details and rationales behind the focus on rERA are elaborated in the code, offering a richer understanding of its significance and the thought process involved.
